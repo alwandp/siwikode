@@ -40,3 +40,7 @@ function login(){
 function load() {
   alert("Username : admin & Password : admin");
 }
+
+function popup() {
+  alert("Kelompok 6: Alwan, Ammar, Fathiah, Mubdi"); 
+}
