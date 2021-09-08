@@ -24,11 +24,6 @@ $(".owl-carousel").owlCarousel({
   }
 });
 
-// Alert kelompok 6
-function kel() {
-  alert("Kelompok 6 : Alwan Dwi Putra, Ammar Mubarok R, Fathiah Al Habsyi, Mubdi Haryanto")
-}
-
 // Function Login
 function login() {
   var username = document.getElementById("username").value;
