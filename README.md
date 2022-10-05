@@ -1,2 +1,2 @@
-# alwandp.github.io
-UAS SIWIKODE
+# Sistem Informasi Wisata Kota Depok
+Ujian Akhir Semester Pemrograman Web 1
